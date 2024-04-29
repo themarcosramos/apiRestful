@@ -147,7 +147,7 @@ ou
 
  ### Apagar produto
 
-  ** DELETE:** 
+  **DELETE:** 
   
   >> http://apiRestful/api/v1/products/id_product
   >
